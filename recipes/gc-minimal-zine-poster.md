@@ -13,14 +13,14 @@
 | 当前调用名 | `gc-minimal-zine-poster-v0-3` |
 | 当前验证 | 已核实项目与公开作品 `Night Door` |
 | 我们的实测 | 计划在 v0.2 加入 |
-| 核验日期 | 2026-08-23 |
+| License | MIT |
+| 核验日期 | 2026-08-24 |
 
 ## 项目来源
 
 - GitHub：[LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster)
-- 项目数据快照：约 6.5k Star、277 Fork（2026-08-23）
+- 项目数据快照：6,569 Star、280 Fork（2026-08-24）
 
 ## 授权说明
 
 使用或改编前请以原仓库当前 License 为准。本卡片不重新分发原项目源码或案例图片。
-

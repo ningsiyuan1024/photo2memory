@@ -13,14 +13,14 @@
 | 核心约束 | 一张作品只加入一个不可能元素 |
 | 当前验证 | 已核实项目与结果案例 |
 | 我们的实测 | 计划在 v0.2 加入 |
-| 核验日期 | 2026-08-23 |
+| License | GitHub API 未识别到明确 License |
+| 核验日期 | 2026-08-24 |
 
 ## 项目来源
 
 - GitHub：[traveler0621/reality-restaged](https://github.com/traveler0621/reality-restaged)
-- 项目数据快照：约 158 Star、6 Fork（2026-08-23）
+- 项目数据快照：166 Star、7 Fork（2026-08-24）
 
 ## 授权说明
 
 使用或改编前请以原仓库当前 License 为准。本卡片不重新分发原项目源码或案例图片。
-

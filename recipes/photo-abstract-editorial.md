@@ -12,14 +12,14 @@
 | 核心约束 | 不重绘照片区域；抽象部分只使用输入照片中存在的关系 |
 | 当前验证 | 已核实项目与包含原片区域的结果案例 |
 | 我们的实测 | 计划在 v0.2 加入 |
-| 核验日期 | 2026-08-23 |
+| License | GitHub API 未识别到明确 License |
+| 核验日期 | 2026-08-24 |
 
 ## 项目来源
 
 - GitHub：[ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)
-- 项目数据快照：约 4.6k Star、296 Fork（2026-08-23）
+- 项目数据快照：4,666 Star、300 Fork（2026-08-24）
 
 ## 授权说明
 
 使用或改编前请以原仓库当前 License 为准。本卡片不重新分发原项目源码或案例图片。
-
