@@ -4,15 +4,15 @@
 
 手机里保存着许多旅行、看展和日常生活的照片。这个专题关注的不是把照片修得更精致，而是重新整理和表达这些记忆，让它们成为可以展示、保存和分享的作品。
 
-## 四种创作路径
+## 五种创作路径
 
-| 创作路径 | 适合处理的内容 | 可以获得的结果 | 配方 |
+| 创作路径 | 适合处理的内容 | 可以获得的结果 | Skill |
 |---|---|---|---|
-| 故事整理 | 一组旅行或生活照片 | 有连续叙事的摄影纸刊 | [Gathered Scenes Zine](../../recipes/gathered-scenes-zine.md) |
-| 代表画面 | 一个地点、主题或情绪 | 克制的极简 Zine 海报 | [GC Minimal Zine Poster](../../recipes/gc-minimal-zine-poster.md) |
-| 情绪提炼 | 一张具有空间和色彩关系的照片 | 原片与抽象记忆面板 | [Photo Abstract Editorial](../../recipes/photo-abstract-editorial.md) |
-| 记忆重述 | 旅行、街头或人物纪实照片 | 加入一个不可能元素的超现实场景 | [Reality Restaged](../../recipes/reality-restaged.md) |
-| 三层回望 | 一张旅行照片 | 所见、事实与余忆组成的记忆三联画 | [Starryear Threefold Memory](../../recipes/starryear-threefold-memory.md) |
+| 故事整理 | 一组旅行或生活照片 | 有连续叙事的摄影纸刊 | [Gathered Scenes Zine](../../skills/gathered-scenes-zine.md) |
+| 代表画面 | 一个地点、主题或情绪 | 克制的极简 Zine 海报 | [GC Minimal Zine Poster](../../skills/gc-minimal-zine-poster.md) |
+| 情绪提炼 | 一张具有空间和色彩关系的照片 | 原片与抽象记忆面板 | [Photo Abstract Editorial](../../skills/photo-abstract-editorial.md) |
+| 记忆重述 | 旅行、街头或人物纪实照片 | 加入一个不可能元素的超现实场景 | [Reality Restaged](../../skills/reality-restaged.md) |
+| 三层回望 | 一张旅行照片 | 所见、事实与余忆组成的记忆三联画 | [Starryear Threefold Memory](../../skills/starryear-threefold-memory.md) |
 
 ## 当前边界
 
