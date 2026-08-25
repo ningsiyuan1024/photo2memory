@@ -1,4 +1,4 @@
-# 01｜把记忆做成作品
+# 把记忆做成作品
 
 用 AI，把值得记住的时刻做成作品。
 
@@ -12,10 +12,11 @@
 | 代表画面 | 一个地点、主题或情绪 | 克制的极简 Zine 海报 | [GC Minimal Zine Poster](../../recipes/gc-minimal-zine-poster.md) |
 | 情绪提炼 | 一张具有空间和色彩关系的照片 | 原片与抽象记忆面板 | [Photo Abstract Editorial](../../recipes/photo-abstract-editorial.md) |
 | 记忆重述 | 旅行、街头或人物纪实照片 | 加入一个不可能元素的超现实场景 | [Reality Restaged](../../recipes/reality-restaged.md) |
+| 三层回望 | 一张旅行照片 | 所见、事实与余忆组成的记忆三联画 | [Starryear Threefold Memory](../../recipes/starryear-threefold-memory.md) |
 
 ## 当前边界
 
-- `v0.1` 只展示原项目已经提供的效果和可确认信息。
+- `v0.1` 收录 5 个项目，只展示来源已经提供的效果和可确认信息。
 - `v0.2` 计划使用同一组自己的旅行或看展照片完成横向实测。
 - 实测时同时保留输入和输出，判断标准是能否得到一件可以展示的作品。
 
@@ -26,4 +27,3 @@
 - 毕业、生日和纪念日
 - 与家人、朋友或宠物相处的片段
 - 某个不想忘记的普通下午
-
