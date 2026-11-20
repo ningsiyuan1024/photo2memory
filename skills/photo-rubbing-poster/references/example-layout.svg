@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+  <title id="title">3:4 layout study with a cup-derived mark</title>
+  <desc id="desc">Two equal panels. The top is explicitly a source photo placeholder. The bottom is a single experimental mark built from the arc of a cup rim and the negative space of a handle.</desc>
+  <rect width="600" height="400" fill="#e2e4de"/>
+  <rect y="400" width="600" height="400" fill="#f5f2e9"/>
+  <g stroke="#7b847a" stroke-width="1" fill="none">
+    <rect x="36" y="36" width="528" height="328" stroke-dasharray="4 6"/>
+    <path d="M291 200h18m-9-9v18"/>
+    <path d="M36 434h16m-8-8v16M548 764h16m-8-8v16"/>
+  </g>
+  <g font-family="monospace" font-size="12" letter-spacing="2" fill="#34453d">
+    <text x="54" y="65">01 / SOURCE PHOTO SLOT</text>
+    <text x="54" y="346">LAYOUT ONLY · NO PHOTO</text>
+    <text x="54" y="450">02 / RUBBING STUDY</text>
+    <text x="54" y="764">P2M / R-01</text>
+  </g>
+  <path d="M211 601 Q268 546 330 587 C359 605 386 591 386 570 C386 548 359 538 340 552 C323 564 325 583 313 600 Q275 650 212 611" fill="none" stroke="#cf7355" stroke-width="7" stroke-linecap="round" opacity=".62"/>
+  <path d="M206 597 Q263 542 325 583 C354 601 381 587 381 566 C381 544 354 534 335 548 C318 560 320 579 308 596 Q270 646 207 607" fill="none" stroke="#254940" stroke-width="12" stroke-linecap="round"/>
+</svg>
